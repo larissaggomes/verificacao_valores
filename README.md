@@ -1,4 +1,4 @@
-Comparador de Números
+## Comparador de Números
 
 Este projeto é um exemplo simples de código JavaScript que realiza comparações entre três números fornecidos pelo usuário. Ao executar o código, o programa solicita três números (a, b e c) e exibe os resultados de diferentes comparações entre eles na página web.
 📋 Funcionalidades
